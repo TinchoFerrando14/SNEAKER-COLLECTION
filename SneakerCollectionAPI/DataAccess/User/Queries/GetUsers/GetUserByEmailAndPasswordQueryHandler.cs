@@ -1,6 +1,7 @@
 ﻿using MediatR;
 using Microsoft.EntityFrameworkCore;
 using SneakerCollectionAPI.Domain.Entities;
+using SneakerCollectionAPI.Helpers;
 
 namespace SneakerCollectionAPI.DataAccess.UserDataAccess.Queries.GetUsers
 {
@@ -19,8 +20,13 @@ namespace SneakerCollectionAPI.DataAccess.UserDataAccess.Queries.GetUsers
             var user = await _context.Users
                 .FirstOrDefaultAsync(u => u.Email == request.Email, cancellationToken);
 
+            if (user == null)
+            {
+                return null;
+            }
+
             // Here, you should validate the password (hashing and comparison)
-            if (user != null && request.Password == user.Password) // Implement your password verification logic
+            if (PasswordHasher.VerifyPassword(user.Password, request.Password)) 
             {
                 return user;
             }

@@ -1,5 +1,6 @@
 ﻿using MediatR;
 using SneakerCollectionAPI.Domain.Entities;
+using SneakerCollectionAPI.Helpers;
 
 namespace SneakerCollectionAPI.DataAccess.UserDataAccess.Commands.CreateUser
 {
@@ -15,10 +16,12 @@ namespace SneakerCollectionAPI.DataAccess.UserDataAccess.Commands.CreateUser
         public async Task<int> Handle(CreateUserCommand user,
         CancellationToken cancellationToken = default)
         {
+            var hashedPassword = PasswordHasher.HashPassword(user.Password);
+
             var newUser = new User
             {
                 Email = user.Email,
-                Password = user.Password
+                Password = hashedPassword
             };
 
             await _context.Users.AddAsync(newUser);
