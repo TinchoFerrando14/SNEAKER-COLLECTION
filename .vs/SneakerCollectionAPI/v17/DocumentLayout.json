@@ -1,0 +1,797 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\dataaccess\\user\\queries\\getusers\\getuserbyemailandpasswordqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\dataaccess\\user\\queries\\getusers\\getuserbyemailandpasswordqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\dataaccess\\user\\queries\\getusers\\getusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\dataaccess\\user\\queries\\getusers\\getusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\dataaccess\\user\\queries\\getusers\\getusersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\dataaccess\\user\\queries\\getusers\\getusersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\dataaccess\\user\\queries\\getusers\\getuserbyemailandpasswordquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\dataaccess\\user\\queries\\getusers\\getuserbyemailandpasswordquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\dataaccess\\user\\commands\\createuser\\createusercommand .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\dataaccess\\user\\commands\\createuser\\createusercommand .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\dataaccess\\user\\commands\\createuser\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\dataaccess\\user\\commands\\createuser\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\controllers\\sneakercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\controllers\\sneakercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\contracts\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\contracts\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\filters\\validators\\sneakerownershipfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\filters\\validators\\sneakerownershipfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\dataaccess\\sneaker\\queries\\getsneakerbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\dataaccess\\sneaker\\queries\\getsneakerbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\domain\\dtos\\newsneakerinputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\domain\\dtos\\newsneakerinputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\domain\\dtos\\sneakerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\domain\\dtos\\sneakerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\domain\\dtos\\newuserinputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\domain\\dtos\\newuserinputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\domain\\dtos\\paginatedsneakerresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\domain\\dtos\\paginatedsneakerresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\filters\\exceptions\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\filters\\exceptions\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\filters\\validators\\validationfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\filters\\validators\\validationfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\dataaccess\\sneaker\\queries\\getsneakerbyuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\dataaccess\\sneaker\\queries\\getsneakerbyuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\dataaccess\\sneaker\\queries\\getsneakerbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\dataaccess\\sneaker\\queries\\getsneakerbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\dataaccess\\sneaker\\queries\\getsneakerbyuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\dataaccess\\sneaker\\queries\\getsneakerbyuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14BE9D1-3F6E-4428-81CB-3E895743DE77}|SneakerCollectionAPI.Tests\\SneakerCollectionAPI.Tests.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi.tests\\integrationtests\\sneakercontrollerintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14BE9D1-3F6E-4428-81CB-3E895743DE77}|SneakerCollectionAPI.Tests\\SneakerCollectionAPI.Tests.csproj|solutionrelative:sneakercollectionapi.tests\\integrationtests\\sneakercontrollerintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14BE9D1-3F6E-4428-81CB-3E895743DE77}|SneakerCollectionAPI.Tests\\SneakerCollectionAPI.Tests.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi.tests\\integrationtests\\usercontrollerintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14BE9D1-3F6E-4428-81CB-3E895743DE77}|SneakerCollectionAPI.Tests\\SneakerCollectionAPI.Tests.csproj|solutionrelative:sneakercollectionapi.tests\\integrationtests\\usercontrollerintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14BE9D1-3F6E-4428-81CB-3E895743DE77}|SneakerCollectionAPI.Tests\\SneakerCollectionAPI.Tests.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi.tests\\integrationtests\\configuration\\integrationtestbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14BE9D1-3F6E-4428-81CB-3E895743DE77}|SneakerCollectionAPI.Tests\\SneakerCollectionAPI.Tests.csproj|solutionrelative:sneakercollectionapi.tests\\integrationtests\\configuration\\integrationtestbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14BE9D1-3F6E-4428-81CB-3E895743DE77}|SneakerCollectionAPI.Tests\\SneakerCollectionAPI.Tests.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi.tests\\unittests\\usercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14BE9D1-3F6E-4428-81CB-3E895743DE77}|SneakerCollectionAPI.Tests\\SneakerCollectionAPI.Tests.csproj|solutionrelative:sneakercollectionapi.tests\\unittests\\usercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\dataaccess\\sneaker\\commands\\deletesneaker\\deletesneakercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\dataaccess\\sneaker\\commands\\deletesneaker\\deletesneakercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\dataaccess\\sneaker\\commands\\updatesneaker\\updatesneakercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\dataaccess\\sneaker\\commands\\updatesneaker\\updatesneakercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\dataaccess\\sneaker\\commands\\updatesneaker\\updatesneakercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\dataaccess\\sneaker\\commands\\updatesneaker\\updatesneakercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\domain\\enums\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\domain\\enums\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\dataaccess\\sneakercollectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\dataaccess\\sneakercollectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\dataaccess\\sneaker\\commands\\createsneaker\\createsneakercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\dataaccess\\sneaker\\commands\\createsneaker\\createsneakercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\domain\\dtos\\updatesneakerinputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\domain\\dtos\\updatesneakerinputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\exceptions\\sneakerownershipexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\exceptions\\sneakerownershipexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\dataaccess\\sneaker\\commands\\deletesneaker\\deletesneakercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\dataaccess\\sneaker\\commands\\deletesneaker\\deletesneakercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\domain\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\domain\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\domain\\entities\\sneaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\domain\\entities\\sneaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\domain\\enums\\rateenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\domain\\enums\\rateenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\dataaccess\\sneaker\\commands\\createsneaker\\createsneakercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\dataaccess\\sneaker\\commands\\createsneaker\\createsneakercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\sneakercollectionapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\sneakercollectionapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\authsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\authsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|c:\\users\\tincho\\source\\repos\\sneaker-collection\\sneakercollectionapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1177231F-BCCE-486B-99FF-F96B7EF73E9C}|SneakerCollectionAPI\\SneakerCollectionAPI.csproj|solutionrelative:sneakercollectionapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T01:34:20.307Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAADgvxwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T01:17:44.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateUserCommand .cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\DataAccess\\User\\Commands\\CreateUser\\CreateUserCommand .cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\DataAccess\\User\\Commands\\CreateUser\\CreateUserCommand .cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\DataAccess\\User\\Commands\\CreateUser\\CreateUserCommand .cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\DataAccess\\User\\Commands\\CreateUser\\CreateUserCommand .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T01:41:05.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\DataAccess\\User\\Commands\\CreateUser\\CreateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\DataAccess\\User\\Commands\\CreateUser\\CreateUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\DataAccess\\User\\Commands\\CreateUser\\CreateUserCommandHandler.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\DataAccess\\User\\Commands\\CreateUser\\CreateUserCommandHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T01:45:31.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetUserByEmailAndPasswordQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\DataAccess\\User\\Queries\\GetUsers\\GetUserByEmailAndPasswordQuery.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\DataAccess\\User\\Queries\\GetUsers\\GetUserByEmailAndPasswordQuery.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\DataAccess\\User\\Queries\\GetUsers\\GetUserByEmailAndPasswordQuery.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\DataAccess\\User\\Queries\\GetUsers\\GetUserByEmailAndPasswordQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T21:14:30.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetUsersQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\DataAccess\\User\\Queries\\GetUsers\\GetUsersQueryHandler.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\DataAccess\\User\\Queries\\GetUsers\\GetUsersQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\DataAccess\\User\\Queries\\GetUsers\\GetUsersQueryHandler.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\DataAccess\\User\\Queries\\GetUsers\\GetUsersQueryHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T20:27:30.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetUsersQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\DataAccess\\User\\Queries\\GetUsers\\GetUsersQuery.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\DataAccess\\User\\Queries\\GetUsers\\GetUsersQuery.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\DataAccess\\User\\Queries\\GetUsers\\GetUsersQuery.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\DataAccess\\User\\Queries\\GetUsers\\GetUsersQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T20:26:50.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetUserByEmailAndPasswordQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\DataAccess\\User\\Queries\\GetUsers\\GetUserByEmailAndPasswordQueryHandler.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\DataAccess\\User\\Queries\\GetUsers\\GetUserByEmailAndPasswordQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\DataAccess\\User\\Queries\\GetUsers\\GetUserByEmailAndPasswordQueryHandler.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\DataAccess\\User\\Queries\\GetUsers\\GetUserByEmailAndPasswordQueryHandler.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAEwA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T21:15:39.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SneakerController.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Controllers\\SneakerController.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\Controllers\\SneakerController.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Controllers\\SneakerController.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\Controllers\\SneakerController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAmwHUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T21:29:33.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowCwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T23:25:06.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Error.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Contracts\\Error.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\Contracts\\Error.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Contracts\\Error.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\Contracts\\Error.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T00:12:53.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SneakerDto.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Domain\\DTOs\\SneakerDto.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\Domain\\DTOs\\SneakerDto.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Domain\\DTOs\\SneakerDto.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\Domain\\DTOs\\SneakerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T21:31:37.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PaginatedSneakerResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Domain\\DTOs\\PaginatedSneakerResponseDto.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\Domain\\DTOs\\PaginatedSneakerResponseDto.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Domain\\DTOs\\PaginatedSneakerResponseDto.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\Domain\\DTOs\\PaginatedSneakerResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T21:26:01.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SneakerOwnershipFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Filters\\Validators\\SneakerOwnershipFilter.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\Filters\\Validators\\SneakerOwnershipFilter.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Filters\\Validators\\SneakerOwnershipFilter.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\Filters\\Validators\\SneakerOwnershipFilter.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAnwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:25:45.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ValidationFilterAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Filters\\Validators\\ValidationFilterAttribute.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\Filters\\Validators\\ValidationFilterAttribute.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Filters\\Validators\\ValidationFilterAttribute.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\Filters\\Validators\\ValidationFilterAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T23:54:32.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Filters\\Exceptions\\ExceptionFilter.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\Filters\\Exceptions\\ExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Filters\\Exceptions\\ExceptionFilter.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\Filters\\Exceptions\\ExceptionFilter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T00:28:01.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetSneakerByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\DataAccess\\Sneaker\\Queries\\GetSneakerByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\DataAccess\\Sneaker\\Queries\\GetSneakerByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\DataAccess\\Sneaker\\Queries\\GetSneakerByIdQueryHandler.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\DataAccess\\Sneaker\\Queries\\GetSneakerByIdQueryHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAArwBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:08:39.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NewUserInputDto.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Domain\\DTOs\\NewUserInputDto.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\Domain\\DTOs\\NewUserInputDto.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Domain\\DTOs\\NewUserInputDto.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\Domain\\DTOs\\NewUserInputDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T23:23:21.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NewSneakerInputDto.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Domain\\DTOs\\NewSneakerInputDto.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\Domain\\DTOs\\NewSneakerInputDto.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Domain\\DTOs\\NewSneakerInputDto.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\Domain\\DTOs\\NewSneakerInputDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T17:43:39.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetSneakerByUserQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\DataAccess\\Sneaker\\Queries\\GetSneakerByUserQuery.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\DataAccess\\Sneaker\\Queries\\GetSneakerByUserQuery.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\DataAccess\\Sneaker\\Queries\\GetSneakerByUserQuery.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\DataAccess\\Sneaker\\Queries\\GetSneakerByUserQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T18:55:42.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetSneakerByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\DataAccess\\Sneaker\\Queries\\GetSneakerByIdQuery.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\DataAccess\\Sneaker\\Queries\\GetSneakerByIdQuery.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\DataAccess\\Sneaker\\Queries\\GetSneakerByIdQuery.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\DataAccess\\Sneaker\\Queries\\GetSneakerByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T21:39:11.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SneakerControllerIntegrationTests.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI.Tests\\IntegrationTests\\SneakerControllerIntegrationTests.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI.Tests\\IntegrationTests\\SneakerControllerIntegrationTests.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI.Tests\\IntegrationTests\\SneakerControllerIntegrationTests.cs",
+              "RelativeToolTip": "SneakerCollectionAPI.Tests\\IntegrationTests\\SneakerControllerIntegrationTests.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAAAJIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T17:42:13.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetSneakerByUserQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\DataAccess\\Sneaker\\Queries\\GetSneakerByUserQueryHandler.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\DataAccess\\Sneaker\\Queries\\GetSneakerByUserQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\DataAccess\\Sneaker\\Queries\\GetSneakerByUserQueryHandler.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\DataAccess\\Sneaker\\Queries\\GetSneakerByUserQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T18:56:32.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserControllerIntegrationTests.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI.Tests\\IntegrationTests\\UserControllerIntegrationTests.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI.Tests\\IntegrationTests\\UserControllerIntegrationTests.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI.Tests\\IntegrationTests\\UserControllerIntegrationTests.cs",
+              "RelativeToolTip": "SneakerCollectionAPI.Tests\\IntegrationTests\\UserControllerIntegrationTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T17:54:18.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\appsettings.json",
+              "RelativeToolTip": "SneakerCollectionAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-12T00:14:50.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IntegrationTestBase.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI.Tests\\IntegrationTests\\Configuration\\IntegrationTestBase.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI.Tests\\IntegrationTests\\Configuration\\IntegrationTestBase.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI.Tests\\IntegrationTests\\Configuration\\IntegrationTestBase.cs",
+              "RelativeToolTip": "SneakerCollectionAPI.Tests\\IntegrationTests\\Configuration\\IntegrationTestBase.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T17:14:53.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI.Tests\\UnitTests\\UserControllerTests.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI.Tests\\UnitTests\\UserControllerTests.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI.Tests\\UnitTests\\UserControllerTests.cs",
+              "RelativeToolTip": "SneakerCollectionAPI.Tests\\UnitTests\\UserControllerTests.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T16:48:57.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DeleteSneakerCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\DataAccess\\Sneaker\\Commands\\DeleteSneaker\\DeleteSneakerCommand.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\DataAccess\\Sneaker\\Commands\\DeleteSneaker\\DeleteSneakerCommand.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\DataAccess\\Sneaker\\Commands\\DeleteSneaker\\DeleteSneakerCommand.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\DataAccess\\Sneaker\\Commands\\DeleteSneaker\\DeleteSneakerCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:20:09.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Program.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:51:34.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UpdateSneakerCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\DataAccess\\Sneaker\\Commands\\UpdateSneaker\\UpdateSneakerCommandHandler.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\DataAccess\\Sneaker\\Commands\\UpdateSneaker\\UpdateSneakerCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\DataAccess\\Sneaker\\Commands\\UpdateSneaker\\UpdateSneakerCommandHandler.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\DataAccess\\Sneaker\\Commands\\UpdateSneaker\\UpdateSneakerCommandHandler.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:53:20.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UpdateSneakerCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\DataAccess\\Sneaker\\Commands\\UpdateSneaker\\UpdateSneakerCommand.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\DataAccess\\Sneaker\\Commands\\UpdateSneaker\\UpdateSneakerCommand.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\DataAccess\\Sneaker\\Commands\\UpdateSneaker\\UpdateSneakerCommand.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\DataAccess\\Sneaker\\Commands\\UpdateSneaker\\UpdateSneakerCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:52:39.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RoleEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Domain\\Enums\\RoleEnum.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\Domain\\Enums\\RoleEnum.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Domain\\Enums\\RoleEnum.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\Domain\\Enums\\RoleEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T21:56:40.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SneakerCollectionContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\DataAccess\\SneakerCollectionContext.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\DataAccess\\SneakerCollectionContext.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\DataAccess\\SneakerCollectionContext.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\DataAccess\\SneakerCollectionContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T01:35:19.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CreateSneakerCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\DataAccess\\Sneaker\\Commands\\CreateSneaker\\CreateSneakerCommand.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\DataAccess\\Sneaker\\Commands\\CreateSneaker\\CreateSneakerCommand.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\DataAccess\\Sneaker\\Commands\\CreateSneaker\\CreateSneakerCommand.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\DataAccess\\Sneaker\\Commands\\CreateSneaker\\CreateSneakerCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T21:33:33.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UpdateSneakerInputDto.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Domain\\DTOs\\UpdateSneakerInputDto.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\Domain\\DTOs\\UpdateSneakerInputDto.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Domain\\DTOs\\UpdateSneakerInputDto.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\Domain\\DTOs\\UpdateSneakerInputDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T20:03:37.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SneakerOwnershipException.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Exceptions\\SneakerOwnershipException.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\Exceptions\\SneakerOwnershipException.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Exceptions\\SneakerOwnershipException.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\Exceptions\\SneakerOwnershipException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:46:29.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\Exceptions\\BadRequestException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T00:37:39.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DeleteSneakerCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\DataAccess\\Sneaker\\Commands\\DeleteSneaker\\DeleteSneakerCommandHandler.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\DataAccess\\Sneaker\\Commands\\DeleteSneaker\\DeleteSneakerCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\DataAccess\\Sneaker\\Commands\\DeleteSneaker\\DeleteSneakerCommandHandler.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\DataAccess\\Sneaker\\Commands\\DeleteSneaker\\DeleteSneakerCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:20:29.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Domain\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\Domain\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Domain\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\Domain\\DTOs\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:13:54.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RateEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Domain\\Enums\\RateEnum.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\Domain\\Enums\\RateEnum.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Domain\\Enums\\RateEnum.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\Domain\\Enums\\RateEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T21:25:15.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Sneaker.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Domain\\Entities\\Sneaker.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\Domain\\Entities\\Sneaker.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Domain\\Entities\\Sneaker.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\Domain\\Entities\\Sneaker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T21:18:18.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CreateSneakerCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\DataAccess\\Sneaker\\Commands\\CreateSneaker\\CreateSneakerCommandHandler.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\DataAccess\\Sneaker\\Commands\\CreateSneaker\\CreateSneakerCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\DataAccess\\Sneaker\\Commands\\CreateSneaker\\CreateSneakerCommandHandler.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\DataAccess\\Sneaker\\Commands\\CreateSneaker\\CreateSneakerCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T21:35:01.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DataBaseSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\DataBaseSettings.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\DataBaseSettings.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\DataBaseSettings.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\DataBaseSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T02:13:50.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SneakerCollectionAPI",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\SneakerCollectionAPI.csproj",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\SneakerCollectionAPI.csproj",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\SneakerCollectionAPI.csproj",
+              "RelativeToolTip": "SneakerCollectionAPI\\SneakerCollectionAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-12T02:37:24.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AuthSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\AuthSettings.cs",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\AuthSettings.cs",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\AuthSettings.cs",
+              "RelativeToolTip": "SneakerCollectionAPI\\AuthSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T00:42:59.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SneakerCollectionAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Tincho\\source\\repos\\SNEAKER-COLLECTION\\SneakerCollectionAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SneakerCollectionAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T22:51:26.633Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
